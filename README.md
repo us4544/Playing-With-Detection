@@ -1,2 +1,6 @@
-# Playin-With-Detection
-Face recognition and Emotion detection
+# Playing-With-Detection
+
+
+<h2>Contributors</h2>  
+Umang Shringi  <br>
+Rusali Shah
