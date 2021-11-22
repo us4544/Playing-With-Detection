@@ -1,0 +1,1 @@
+This folder has been created to add the code for the Emotion Recognizer sytem. The Jupyter Notebook for the same has been uploaded in this folder.
