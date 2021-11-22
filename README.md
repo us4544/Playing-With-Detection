@@ -7,4 +7,4 @@ We have imported our dataset from kaggle. It is The Olivetti faces dataset. Ther
 
 <h2>Contributors</h2>  
 Umang Shringi  <br>
-Rusali Shah
+Rusali Saha
