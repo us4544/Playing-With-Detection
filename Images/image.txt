@@ -1,0 +1,1 @@
+This folder is to include all images of our dataset, exploratory data analysis, principal component analysis, our results and additionally, our failure mode analysis.
