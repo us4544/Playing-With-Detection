@@ -1,0 +1,1 @@
+This folder Face Recognition has been created to include the Exploratory Data Analysis and the Face Recognition model for our project. The results have also been displayed and analysed.
